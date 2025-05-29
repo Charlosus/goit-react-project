@@ -1,0 +1,20 @@
+# Ignore dependencies
+node_modules
+
+# Ignore build output
+dist
+
+# Ignore log files
+*.log
+
+# Ignore environment variables file
+.env
+
+# Ignore coverage reports
+coverage
+
+# Ignore Vite cache
+.vite
+
+# Ignore system files (macOS)
+.DS_Store
