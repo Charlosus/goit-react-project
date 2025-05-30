@@ -10,7 +10,7 @@ function App() {
     <>
       <div>
         <a href="https://example.com" target="_blank" rel="noreferrer">L
-          <img src={viteLogo} className="logo" alt="Vite logo" />
+        <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
         <a href="https://example.com" target="_blank" rel="noreferrer">L
           <img src={reactLogo} className="logo react" alt="React logo" />
